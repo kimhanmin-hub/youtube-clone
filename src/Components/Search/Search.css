@@ -1,0 +1,28 @@
+.search-results {
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.search-result-item {
+    display: flex;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.search-result-item img {
+    width: 320px;
+    height: 180px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.search-result-info h3 {
+    margin: 0 0 10px 0;
+}
+
+.search-result-info p {
+    margin: 5px 0;
+    color: #606060;
+}
